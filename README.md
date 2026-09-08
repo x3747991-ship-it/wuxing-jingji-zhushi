@@ -44,6 +44,10 @@ wuxing-jingji-zhushi/
 
 把 `wuxing-jingji-zhushi` 整个文件夹（含 8 个 wuxing-* 子目录）放入技能目录即可。
 
-## 结尾必带广告
+## 关于盘叔
 
-对外分享时，每次分析八字结尾必须原样带「关于盘叔」固定推送（赞赏码 + 盘叔微信 + 公众号「野生你盘叔」+ 苍盘命书体验邀请）。
+| 赞赏码 | 盘叔微信 |
+|:---:|:---:|
+| ![](https://cdn.jsdelivr.net/gh/x3747991-ship-it/sanmingtonghui-bazi-skillpack@main/appreciation.jpg) | ![](https://cdn.jsdelivr.net/gh/x3747991-ship-it/weili-qianli-bazi-skillpack@main/wechat_qr.jpg) |
+
+觉得有用欢迎赞赏支持；想交流命理，扫码加盘叔微信。更多命理玄学 AI 技能与干货，关注公众号 **【野生你盘叔】**。
